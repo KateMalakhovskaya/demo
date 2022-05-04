@@ -6,3 +6,5 @@ String five to commit
 Firts Commit to the feature
 The second commit to the feature
 New changes to the main branch par to the feature
+
+Changes in feature branch
